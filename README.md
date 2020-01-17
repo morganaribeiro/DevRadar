@@ -1,6 +1,6 @@
 <img src="./static/omnistack.png" align="center"></img>
 <h1 align="center">Semana Omnistack 10</h1>
-<p align="center">Projeto <strong>DevRadar</strong> Desenvolvido durante a 10ª Semana Omnistack da Rocketseat</p>
+<p align="center">Projeto <strong>DevRadar</strong> Desenvolvido durante a 10ª Edição da Semana Omnistack da Rocketseat</p>
 
 <p align="center">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
@@ -20,9 +20,18 @@
   	<img src="https://img.shields.io/badge/desafios-OK-green"></img>
   </a>
 
-# DevRadar 🛰
+## :rocket: Tecnologias
 
-### Este projeto serve para encontrar desenvolvedores por distância e tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+[x] [Node.js](https://nodejs.org/en/)
+[x] [React](https://reactjs.org)
+[x] [React Native](https://facebook.github.io/react-native/)
+[x] [Expo](https://expo.io/)
+
+## DevRadar 🛰
+
+### O DevRadar é projeto para encontrar desenvolvedores por distância e tecnologias
 
 ## Frontend
 
