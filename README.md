@@ -9,6 +9,13 @@
   <a aria-label="Versão do React" href="https://github.com/facebook/react/blob/master/CHANGELOG.md#16120-november-14-2019">
     <img src="https://img.shields.io/badge/react-16.12.0-informational?logo=react"></img>
   </a>
+    <a aria-label="Versão do Expo" href="https://www.npmjs.com/package/expo-cli/v/3.11.5">
+    <img src="https://img.shields.io/badge/expo--CLI-3.11.5-informational?logo=expo"></img>
+  </a>
+    <a aria-label="Dia 4 de 5" href="https://rocketseat.com.br/week-10/aulas#4">
+    <img src="https://img.shields.io/badge/dia-4-green"></img>
+  </a>
+
   <a aria-label="Desafios" href="DESAFIOS.md">
   	<img src="https://img.shields.io/badge/desafios-OK-green"></img>
   </a>
