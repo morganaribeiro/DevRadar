@@ -16,3 +16,7 @@
 # DevRadar 🛰
 
 ### Este projeto serve para encontrar desenvolvedores por distância e tecnologias
+
+## Frontend
+
+<img align="center" src="./static/frontend.gif"></img>
