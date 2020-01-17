@@ -24,6 +24,10 @@
   	<img src="https://img.shields.io/github/repo-size/LeoGHz/DevRadar.svg"></img>
   </a>
 
+   <a aria-label="License" href="LICENSE.md">
+  	<img src="https://img.shields.io/badge/license-MIT-brightgreen"></img>
+  </a>
+
 ## :rocket: Tecnologias
 
 ### Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -33,15 +37,19 @@
 | [React Native](https://facebook.github.io/react-native/)
 | [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 🛰 Projeto
+
+#### 🛰 DevRadar é um projeto para encontrar desenvolvedores por distância e tecnologias
 
 
-### 🛰 DevRadar é um projeto para encontrar desenvolvedores por distância e tecnologias
+## ⚛️ Frontend
+
+<img align="center" src="./static/frontend.gif"></img>
+
+## 📱 Mobile 
+
+<img align="center" src="./static/mobile.gif?v=2"></img>
 
 ## :memo: Licença
 
-#### Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-## Frontend
-
-<img align="center" src="./static/frontend.gif"></img>
+#### Esse projeto está sob a licença [MIT](./LICENSE) &copy; [Rocketseat](https://rocketseat.com.br/)
