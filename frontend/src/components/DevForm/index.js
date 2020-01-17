@@ -10,7 +10,7 @@ function DevForm({ onAdd, onEdit, editModeState }){
     const [longitude, setLongitude] = useState('');
 
     useEffect(() => {
-      if (!editMode) {
+      if (!editMode) { // Localização do navegador (Pois o usuário está cadastrando)
         setGithub('');
         setTechs('');
         navigator.geolocation.getCurrentPosition(
@@ -26,7 +26,7 @@ function DevForm({ onAdd, onEdit, editModeState }){
             timeout: 30000
           }
         )
-      } else {
+      } else { // Localização do dev selecionado (Pois o usuário está editando)
         const { github, techs, location: { coordinates: [latitude, longitude]}} = dev;
         setGithub(github);
         setTechs(techs.join(", "));

@@ -8,8 +8,8 @@ function DevItem({ dev, onEdit, onDelete}){
 
     function editDev(){
       setEditMode({editMode: 
-          (oldDev._id!==dev._id) ? true : !editMode,
-          dev 
+          (oldDev._id!==dev._id) ? true : !editMode, // Se selecionou um Dev diferente, obrigatóriamente editMode deve ser true.
+          dev // Novo Dev
       });
     }
 

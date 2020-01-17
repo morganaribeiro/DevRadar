@@ -18,6 +18,7 @@ function App() {
     const [devs, setDevs] = useState([]);
     const [{editMode}] = editModeState;
   
+    // Load devs
     useEffect(() => {
       async function loadDevs(){
         const response = await api.get('devs');
@@ -29,8 +30,8 @@ function App() {
   
     async function handleAddDev(data) {
       const response = await api.post('devs', data);
-      if (!devs.reduce((res, dev)=>res===true||dev._id===response.data._id))
-        setDevs([...devs, response.data]);
+      if (!devs.reduce((res, dev)=>res===true||dev._id===response.data._id)) // Evitar adicionar duplicatas
+        setDevs([...devs, response.data]); // Spread para manter imutabilidade
     }
 
     async function handleEditDev(dev, data){

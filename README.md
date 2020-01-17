@@ -22,16 +22,17 @@
 
 ## :rocket: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+### Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 [Node.js](https://nodejs.org/en/)
 | [React](https://reactjs.org)
 | [React Native](https://facebook.github.io/react-native/)
 | [Expo](https://expo.io/)
 
-## DevRadar 🛰
+## 💻 Projeto
 
-### O DevRadar é projeto para encontrar desenvolvedores por distância e tecnologias
+
+### 🛰 DevRadar é um projeto para encontrar desenvolvedores por distância e tecnologias
 
 ## Frontend
 
