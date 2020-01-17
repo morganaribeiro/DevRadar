@@ -24,10 +24,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-[x] [Node.js](https://nodejs.org/en/)
-[x] [React](https://reactjs.org)
-[x] [React Native](https://facebook.github.io/react-native/)
-[x] [Expo](https://expo.io/)
+[Node.js](https://nodejs.org/en/)
+| [React](https://reactjs.org)
+| [React Native](https://facebook.github.io/react-native/)
+| [Expo](https://expo.io/)
 
 ## DevRadar 🛰
 
