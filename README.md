@@ -19,6 +19,10 @@
   <a aria-label="Desafios" href="DESAFIOS.md">
   	<img src="https://img.shields.io/badge/desafios-OK-green"></img>
   </a>
+  
+  <a aria-label="Repo Size" href="README.md">
+  	<img src="https://img.shields.io/github/repo-size/LeoGHz/DevRadar.svg"></img>
+  </a>
 
 ## :rocket: Tecnologias
 
@@ -33,6 +37,10 @@
 
 
 ### 🛰 DevRadar é um projeto para encontrar desenvolvedores por distância e tecnologias
+
+## :memo: Licença
+
+#### Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ## Frontend
 
