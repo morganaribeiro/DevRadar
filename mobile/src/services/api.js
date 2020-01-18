@@ -1,9 +1,9 @@
 import axios from 'axios';
 
-function api() {
-    const baseURL = 'http://IP_DO_BACKEND:3333';
+const baseURL = 'http://IP_DO_BACKEND:3333';
 
+function createAPI() {
     return axios.create({ baseURL })
 }
-
-export default api();
+const api = createAPI();
+export {baseURL, api};
